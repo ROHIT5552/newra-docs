@@ -1,0 +1,65 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Newra Docs
+  structure:
+    - type: space
+      title: Documentation
+      path: documentation
+      default: true
+      content:
+        directory: ./documentation
+    - type: space
+      title: NRG-OS
+      path: nrg-os
+      content:
+        directory: ./nrg-os
+    - type: space
+      title: NewRa Core CRM
+      path: newra-core-crm
+      content:
+        directory: ./newra-core-crm
+    - type: space
+      title: NewRa Symphony
+      path: newra-symphony
+      content:
+        directory: ./newra-symphony
+    - type: space
+      title: NewRa Lens
+      path: newra-lens
+      content:
+        directory: ./newra-lens
+    - type: space
+      title: NewRa Atlas
+      path: newra-atlas
+      content:
+        directory: ./newra-atlas
+    - type: space
+      title: NewRa ResourceLab
+      path: newra-resourcelab
+      content:
+        directory: ./newra-resourcelab
+    - type: space
+      title: NewRa Vault
+      path: newra-vault
+      content:
+        directory: ./newra-vault
+    - type: space
+      title: NewRa IPP Portal
+      path: newra-ipp-portal
+      content:
+        directory: ./newra-ipp-portal
+    - type: space
+      title: NewRa People
+      path: newra-people
+      content:
+        directory: ./newra-people
+    - type: space
+      title: NewRaGrids.energy
+      path: newragrids.energy
+      content:
+        directory: ./newragrids.energy
+    - type: space
+      title: NewRaGrids.in
+      path: newragrids.in
+      content:
+        directory: ./newragrids.in
