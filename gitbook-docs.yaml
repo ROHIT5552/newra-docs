@@ -3,62 +3,74 @@ site:
   title: Newra Docs
   structure:
     - type: space
+      key: space-documentation
       title: Documentation
       path: documentation
       default: true
       content:
         directory: ./documentation
     - type: space
+      key: space-nrg-os
       title: NRG-OS
       path: nrg-os
       content:
         directory: ./nrg-os
     - type: space
+      key: space-newra-core-crm
       title: NewRa Core CRM
       path: newra-core-crm
       content:
         directory: ./newra-core-crm
     - type: space
+      key: space-newra-symphony
       title: NewRa Symphony
       path: newra-symphony
       content:
         directory: ./newra-symphony
     - type: space
+      key: space-newra-lens
       title: NewRa Lens
       path: newra-lens
       content:
         directory: ./newra-lens
     - type: space
+      key: space-newra-atlas
       title: NewRa Atlas
       path: newra-atlas
       content:
         directory: ./newra-atlas
     - type: space
+      key: space-newra-resourcelab
       title: NewRa ResourceLab
       path: newra-resourcelab
       content:
         directory: ./newra-resourcelab
     - type: space
+      key: space-newra-vault
       title: NewRa Vault
       path: newra-vault
       content:
         directory: ./newra-vault
     - type: space
+      key: space-newra-ipp-portal
       title: NewRa IPP Portal
       path: newra-ipp-portal
       content:
         directory: ./newra-ipp-portal
     - type: space
+      key: space-newra-people
       title: NewRa People
       path: newra-people
       content:
         directory: ./newra-people
     - type: space
+      key: space-newragrids-energy
       title: NewRaGrids.energy
       path: newragrids.energy
       content:
         directory: ./newragrids.energy
     - type: space
+      key: space-newragrids-in
       title: NewRaGrids.in
       path: newragrids.in
       content:
